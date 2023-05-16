@@ -9,7 +9,7 @@ Starting from GeoJSON files (created by Apisit Toompakdee) that defines Thailand
 * พรรคประชาธิปัตย์ Democrat Party (DEM)
 
 # Data Collection
-I haven't been able to find downloadable election data by district, so I may end up creating one manually via web scraping.
+I haven't been able to find downloadable election data by district, so I may end up creating one manually.
 
 # Motivation
 While most election maps on the media show colors of the winning parties in each district, such maps do not show how close the competitions are. It could be interesting to visualize the election results by percentage vote shares, where you can choose to see different parties. This would allow us to see, for example, how many and which provinces Party A won by landslide vs provinces where Party A won much fewer votes. 
