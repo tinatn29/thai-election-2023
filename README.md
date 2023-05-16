@@ -12,4 +12,6 @@ Starting from GeoJSON files (created by Apisit Toompakdee) that defines Thailand
 I haven't been able to find downloadable election data by district, so I may end up creating one manually.
 
 # Motivation
-While most election maps on the media show colors of the winning parties in each district, such maps do not show how close the competitions are. It could be interesting to visualize the election results by percentage vote shares, where you can choose to see different parties. This would allow us to see, for example, how many and which provinces Party A won by landslide vs provinces where Party A won much fewer votes. 
+While most election maps on the media show colors of the winning parties in each district, such maps do not provide a full picture. For example, regardless of whether Party A won 80% or 50% of the votes in a district, that district will be colored with Party A's color.
+
+It could be interesting to visualize the election results by percentage vote shares (color scale from white to dark corresponding to 0->100%). This would allow us to see, for example, how many and which provinces Party A won by landslide vs provinces where Party A won much fewer votes. We can see how much (or how little) these results correlate with the provinces' populations, GDP, etc.
